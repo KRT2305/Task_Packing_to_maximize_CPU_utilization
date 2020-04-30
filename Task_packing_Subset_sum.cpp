@@ -61,10 +61,7 @@ void subsetSum(int max_limit, int no_of_proc, pair<int,int>process[], int max_si
   }
 }
 signed main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);  
-    cout.tie(0);   
+{ 
 
 // -------------------------------------Code starts here---------------------------------------------------------------------     
 
